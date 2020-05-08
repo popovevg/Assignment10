@@ -8,7 +8,7 @@
 		"info":"Do not pronounce his name!"
 	},
 	{
-		"name":"Ton and Jerry",
+		"name":"Tom and Jerry",
 		"info":"Always together"
 	},
 	{
